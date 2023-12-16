@@ -12,7 +12,8 @@ body{
 	align-items: center;
 	justify-content: centre;
 	height: 100vh;
-	background-color: #012a4a;
+	background-color : green;
+/* 	background-color: #012a4a; */
 }
 .back{
 	width: 100%;
